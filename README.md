@@ -19,4 +19,4 @@ Tried the levels on a real team? Found a boundary that does not hold? Open an is
 
 ## Licence
 
-The framework text, web page and handout are licensed under [CC BY 4.0](LICENSE): share and adapt them, including commercially, as long as you credit Apoco. The Apoco name and logo and the Modern Gothic typeface are not covered by that licence.
+© 2026 Apoco. The framework text, web page and handout are licensed under [CC BY 4.0](LICENSE): share and adapt them, including commercially, as long as you credit Apoco. The Apoco name and logo and the Modern Gothic typeface are not covered by that licence.
