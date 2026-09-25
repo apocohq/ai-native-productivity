@@ -10,11 +10,11 @@
 
 AI’s contribution must be identifiable. The productive capability belongs to people and AI working together: human expertise, initiative, relationships and judgment remain part of it. We use **AI** when describing the technology’s contribution and **collective intelligence** for their combined ability to understand, decide, create and learn. More capable AI alone does not establish greater organizational productivity.
 
-For this draft, the assessed entity is the same organization at every level: a team, department or company responsible for a stated set of outcomes. “Organization” means that unit throughout. Higher levels require stronger collective benefit within that scope; a team does not become a company as it progresses. A team assessment includes consequences for the wider organization. A company assessment cannot be inferred from one strong team.
+The assessed entity is the same organization at every level: a team, department or company responsible for a stated set of outcomes. “Organization” means that unit throughout. Higher levels require stronger collective benefit within that scope; a team does not become a company as it progresses. A team assessment includes consequences for the wider organization. A company assessment cannot be inferred from one strong team.
 
 **In this guide, productivity means useful results for the full effort, time, attention and cost they take, including review and rework.** Quality, value, total resources, elapsed time and development are part of the level claims. Tools, agents, autonomy and routines explain possible mechanisms. They do not earn a level. The framework addresses AI-enabled productivity and effectiveness; it does not rank unrelated companies by revenue or imply that a low-AI organization is generally ineffective. **AI-native** means designing work around useful collaboration between people and AI.
 
-## The six proposed levels
+## The six levels
 
 | Level | Productive situation | What has to be different in actual work |
 |---|---|---|
@@ -136,7 +136,7 @@ The new service must produce worthwhile customer and business results within use
 
 **What comes next:** keep testing the value of its choices and the limits of its capability. The highest level is a continuing condition to sustain, not the end of improvement.
 
-The destination is a well-functioning human–agent organization: valuable intent becomes useful accomplishment without people repeatedly rebuilding the coordination around it. It is a proposed ambition, not a six-to-twelve-month forecast or a claim of unlimited productivity. The examples illustrate possible mechanisms; they do not prescribe a software stack or prove that the level boundaries are valid.
+The destination is a well-functioning human–agent organization: valuable intent becomes useful accomplishment without people repeatedly rebuilding the coordination around it. It is an ambition, not a forecast or a claim of unlimited productivity. The examples illustrate possible mechanisms; they do not prescribe a software stack or prove that the level boundaries are valid.
 
 ## Why the boundaries might be useful
 

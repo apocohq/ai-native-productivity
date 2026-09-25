@@ -155,4 +155,4 @@ The six levels and placement method draw on research and practitioner experience
 - **Benefits depend on the setting:** [Vaccaro, Almaatouq and Malone (2024)](https://www.nature.com/articles/s41562-024-02024-1) found substantial variation in human–AI performance across experiments. Adding AI does not establish a gain; the comparison matters.
 - **AI and shared expertise:** [Dell’Acqua and colleagues (2026)](https://doi.org/10.1287/orsc.2025.20702) found improved performance and more balanced use of functional expertise in a product-innovation experiment at P&G. Its one-day collaborations do not establish sustained organizational improvement or the superiority of persistent shared agents.
 
-Formal scoring, coverage thresholds and comparisons between organizations remain undeveloped. Use the guide for provisional placement and a testable next action, making uncertainty visible.
+Use the guide to place a team, department or company and choose a testable next action, keeping uncertainty visible.
