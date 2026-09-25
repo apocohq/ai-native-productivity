@@ -9,10 +9,10 @@ Productivity here means useful results for the full effort, time, attention and 
 - **[Levels in detail](framework/levels-in-detail.md)** – full conditions, company examples and evidence rules.
 - **A4 handout** – [dark](handout/six-levels-a4.pdf) and [print](handout/six-levels-a4-print.pdf).
 
-## Feedback
+## Contributing
 
-Using the levels with a team? Found a boundary that does not hold? Open an issue. We keep refining the framework as teams use it.
+Issues and pull requests are welcome: counterexamples, clearer wording, and examples from your own teams. Apoco maintains the framework in its own workspace and publishes each release here; accepted pull requests are carried into the next release. Contributions are licensed under the Apache License 2.0.
 
 ## Licence
 
-© 2026 Apoco. The framework text, web page and handout are licensed under [CC BY 4.0](LICENSE): share and adapt them, including commercially, as long as you credit Apoco. The Apoco name and logo and the Modern Gothic typeface are not covered by that licence.
+© 2026 Apoco. Licensed under the [Apache License 2.0](LICENSE). The Apoco name and logo and the Modern Gothic typeface are not covered by the licence.
