@@ -4,10 +4,12 @@
   "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
   "README.md": "3d3e2f0845d1ca0c1697b887ca6b3787f05b58c5e2c0a15c9afd9b3e8be71393",
   "_config.yml": "ab587d761a52c2666ad47e09f6454ed1341c77e479eadb1cd2919e29b407d607",
+  "_includes/head-custom.html": "e8d9b96b6dabab1bab06a2285aefd98aaafafaf9d4ca98ed32a280e8057fa96d",
+  "assets/apoco-icon.png": "55cf0070d177ed1273d4187a60c0e8989da781984f95ff746cbfbe19e96a5c76",
   "framework/levels-in-detail.md": "7fcab8f9e53d94dcb7fad608b79bd6bcbca4a4bbeffeb684b7d48b0277729f09",
   "framework/reader-guide.md": "d5e443ed8f7497c7c15e5c7ab51eda0ffff1a6f4b1753f4782afc1a731ea6272",
   "handout/six-levels-a4-print.pdf": "9dcd678e59a40db78674dd62e529b89008bb91d5d12a080899769c60e2a248aa",
   "handout/six-levels-a4.pdf": "6816891846e5b6f1b96717e6caf7863506e10e3f2aa18dc2a2fabe5ffb1f1046",
-  "index.html": "77a3fa30030697ed40e39130b8fd63d11dfca50ff02a2297b0e162def465c5df"
+  "index.html": "fcdf24decf95bb2992cb2682dd3dceb0b3ccadf976a8912928953b780f2a9a83"
  }
 }
