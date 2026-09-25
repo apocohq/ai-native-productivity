@@ -149,7 +149,7 @@ footer{border-top:1px solid var(--rule);padding-block:24px 40px;font-size:13px;c
 <main class="wrap">
   <section class="view" id="v-levels">
     <div class="intro">
-      <p class="label">Apoco · working framework · September 2026</p>
+      <p class="label">Apoco · Framework · 2026</p>
       <h1>Six levels of AI&#8209;native productivity</h1>
       <p>How much AI has improved what your team gets done – not how advanced its tools are. Productivity means <strong>useful results for the full effort, time, attention and cost</strong>, review and rework included.</p>
     </div>
@@ -197,12 +197,9 @@ footer{border-top:1px solid var(--rule);padding-block:24px 40px;font-size:13px;c
   <section class="view" id="v-about" hidden>
     <div class="intro">
       <p class="label">About</p>
-      <h1>What this is, and what it is not</h1>
+      <h1>About the six levels</h1>
     </div>
-    <details open><summary>A working proposal</summary><div>
-      <p>Six levels are the current candidate. They have not been validated, there are no numeric thresholds, and no team has been independently assessed with them yet. Levels 4 and 5 describe where Apoco is designing toward.</p>
-    </div></details>
-    <details><summary>How to use the levels</summary><div>
+    <details open><summary>How to use the levels</summary><div>
       <ul>
         <li><strong>A diagnosis, not a score.</strong> Don’t rank teams by level. Compare a team with its own earlier state.</li>
         <li><strong>“Not yet” means not yet shown.</strong> It is not forbidden: a level 3 team’s gains can last, and a level 4 team can question its strategy. Work on whatever limits you now.</li>
@@ -229,10 +226,10 @@ footer{border-top:1px solid var(--rule);padding-block:24px 40px;font-size:13px;c
     </div></details>
     <details><summary>Terms in plain words</summary><div><dl class="gloss" id="gloss"></dl></div></details>
     <details><summary>The illustration</summary><div>
-      <p>Mara and her team are fictional, a composite of people who lead new-product work. The scenes show how the levels differ. They are not reported outcomes.</p>
+      <p>Mara and her team are fictional, a composite of people who lead new-product work.</p>
     </div></details>
-    <details><summary>Research behind the criteria</summary><div>
-      <p>These studies shaped what the levels look for. None of them validates the six levels.</p>
+    <details><summary>Research behind the levels</summary><div>
+      <p>These studies shaped what the levels look for.</p>
       <ul>
         <li><a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/">METR (2025)</a>: experienced developers felt about 20% faster with AI and were 19% slower.</li>
         <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321">Dell’Acqua et al. (2023)</a>: big gains inside AI’s capability, worse answers just outside it.</li>
@@ -249,7 +246,7 @@ footer{border-top:1px solid var(--rule);padding-block:24px 40px;font-size:13px;c
   </section>
 </main>
 
-<div class="wrap"><footer>Apoco · working proposal, September 2026 · <a href="framework/reader-guide.html">Full framework</a> · <a href="https://github.com/apocohq/ai-native-productivity">Source on GitHub</a></footer></div>
+<div class="wrap"><footer>Apoco · September 2026 · <a href="framework/reader-guide.html">Full framework</a> · <a href="https://github.com/apocohq/ai-native-productivity">Source on GitHub</a></footer></div>
 
 <script>
 const L = [
@@ -390,10 +387,10 @@ $("#opts").insertAdjacentHTML("beforeend", L.map((l,i)=>
   `<label class="opt"><input type="radio" name="q" id="qu" value="u"><b>?</b><span>It differs across the team, or we have no evidence either way.</span></label>`);
 function result(v){
   const r = $("#result");
-  if (v == null){ r.innerHTML = `<span class="label">Starting hypothesis</span><h3>Pick the closest description.</h3><p class="muted">You will see what would show it and what to try next.</p>`; return; }
+  if (v == null){ r.innerHTML = `<span class="label">Your likely level</span><h3>Pick the closest description.</h3><p class="muted">You will see what would show it and what to try next.</p>`; return; }
   if (v === "u"){ r.innerHTML = `<span class="label">A valid answer</span><h3>Mixed or unknown</h3><p>Place the most important work separately and note what is untested. Don’t average it into one number.</p>`; return; }
   const i = +v;
-  r.innerHTML = `<span class="label">Starting hypothesis</span><h3>${i} · ${L[i].name}</h3>
+  r.innerHTML = `<span class="label">Your likely level</span><h3>${i} · ${L[i].name}</h3>
     <dl><div><dt class="label">Check it by looking for</dt><dd>${L[i].tell}</dd></div>
     <div><dt class="label">${i<5?`Not yet, for level ${i+1}`:"Keep going"}</dt><dd>${cap(L[i].notyet)}</dd></div>
     <div><dt class="label">First step</dt><dd>${L[i].step}</dd></div></dl>

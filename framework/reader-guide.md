@@ -1,6 +1,6 @@
 # AI-native collective productivity
 
-**A working guide to where AI helps your organization—and what to improve next.**
+**A guide to where AI helps your organization—and what to improve next.**
 
 Here, **AI-native** means designing work around useful collaboration between people and AI. Keep one team, department or company in mind throughout; “organization” means that unit. The levels describe useful gains from that collaboration. A company that uses little AI may already work very well.
 
@@ -131,7 +131,7 @@ Permissions and human sign-off should match the consequences of an action. Routi
 
 ## What would support the claim?
 
-This matrix helps turn recognition into a check. It is not a survey, validated scoring system or universal set of thresholds.
+This matrix helps turn recognition into a check.
 
 | Level | Look for | Insufficient on its own |
 |---|---|---|
@@ -148,7 +148,7 @@ For placement, check the productive condition across the stated scope. A strong 
 
 ## Sources and limits
 
-The six levels and placement method are our working proposal, shaped by selected research and practitioner discussions. **The sources inform the design; they do not validate the level count, sequence or assessment.** The operating examples illustrate conditions to look for, not observed company outcomes.
+The six levels and placement method draw on research and practitioner experience. The sources below shaped the design. The operating examples illustrate conditions to look for.
 
 - **Results and resources:** the [OECD productivity manual](https://doi.org/10.1787/9789264194519-en) relates output to inputs. Our practical definition extends beyond its industry-level measures to consider useful outcomes, attention and burdens on others.
 - **Collective effectiveness:** [Wageman, Gardner and Mortensen (2012)](https://doi.org/10.1002/job.1775) discuss valued output, future collaboration and members’ development, including tensions between team, individual and organizational effects. Applying these concerns to human–AI work is our design choice.

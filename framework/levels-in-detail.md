@@ -1,6 +1,6 @@
 # Six levels of AI-native collective productivity
 
-**Working proposal, September 2026.** Six levels, **0–5**, including the baseline. The count and the boundaries are a candidate, not a validated assessment.
+**Apoco, September 2026.** Six levels, **0–5**, including the baseline.
 
 **Start with the [reader guide](reader-guide.md)** for the overview, examples at each level and a placement exercise. This document holds the detailed conditions, company examples and evidence rules. The examples show possible ways to reach each gain; they are not a capability checklist or observed outcomes.
 
@@ -180,4 +180,4 @@ Place the organization from concrete evidence rather than asking whether it feel
 
 ## Status
 
-The research cited in the [reader guide](reader-guide.md#sources-and-limits) informs the benefit criteria and development mechanisms, not the six-level sequence. The open question is whether the six situations are recognizable and useful in real organizations, especially at the 2/3 and 4/5 boundaries. Scores, coverage thresholds for whole companies and the primary presentation scope remain open.
+The research cited in the [reader guide](reader-guide.md#sources-and-limits) informs the benefit criteria and development mechanisms. We keep refining the levels as teams use them, especially the boundaries between levels 2 and 3 and between levels 4 and 5.
